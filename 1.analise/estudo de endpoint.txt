@@ -1,7 +1,7 @@
 (1) /POST                                    /usuario/login
 
 
-request  {
+request (200) {
     "email": "",
     "senha": ""
 }
